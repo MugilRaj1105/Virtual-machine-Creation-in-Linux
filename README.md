@@ -94,11 +94,16 @@ Run the Script
 ./myscript.sh
 ```
 ## OUTPUT
+```
 REG NUMBER:212223220062
 NAME:MUGIL RAJ S A
+```
 Configuration of Kali Linux on Oracle Virtual Box :
+
 ![image](https://github.com/user-attachments/assets/0089b19a-d9af-4cf1-82a5-6095667dd881)
 ![image](https://github.com/user-attachments/assets/34bbdc04-d5c5-4e01-8710-e151cbe5c5e1)
+![image](https://github.com/user-attachments/assets/46e90a27-6496-4a45-9fd3-3ce5decadaa4)
+
 ## RESULT
  Thus, this experiment helped in understanding the fundamentals of Linux commands and Bash scripting for automation and system management.
 
